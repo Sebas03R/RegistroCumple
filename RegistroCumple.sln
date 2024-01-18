@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistroCumple", "RegistroCumple\RegistroCumple.csproj", "{0ECA907A-B7B2-40B8-9C25-92ED0198AE7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ECA907A-B7B2-40B8-9C25-92ED0198AE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECA907A-B7B2-40B8-9C25-92ED0198AE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECA907A-B7B2-40B8-9C25-92ED0198AE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECA907A-B7B2-40B8-9C25-92ED0198AE7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7429F0CC-61A1-44AF-8A73-B412552601CD}
+	EndGlobalSection
+EndGlobal
